@@ -1,0 +1,50 @@
+
+# Jupyter notebook support
+ipykernel
+ipython
+nbformat
+
+# Numerical computing and data analysis
+numpy
+scipy
+pandas
+polars
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Classical machine learning
+scikit-learn
+xgboost
+lightgbm
+
+# Deep learning (CPU)
+tensorflow
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+torchaudio
+
+# Computer vision and image processing
+pillow
+opencv-python
+scikit-image
+
+# NLP and transformers
+nltk
+spacy
+transformers
+datasets
+sentence-transformers
+
+# Utilities and development
+tqdm
+joblib
+h5py
+tensorboard
+requests
+python-dotenv
+pytest
+ruff

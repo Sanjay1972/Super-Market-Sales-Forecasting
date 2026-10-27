@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets (keep folder structure)
+dataset/*
+!dataset/.gitkeep
+data/
+
+# Model artifacts
+*.h5
+*.keras
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.onnx
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
